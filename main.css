@@ -1,0 +1,160 @@
+html{
+    width: 1365px;
+    height: 657px;
+}
+
+.m1{
+    font-family: "Times new roman";
+    font-size: 20px;
+    width:40px;
+    height:40px;
+    color:black;
+    justify-content: center;
+    padding: 10px;
+    text-decoration: none;
+    
+}
+.im2{
+    padding: 0 0 5px 5px;
+}
+.img{
+    padding:1px 5px 5px 5px;
+
+}
+.all{
+    padding: 10px;
+    display:flex;
+    justify-content: flex-end;
+    
+}
+#logo{
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+}
+#input_wrapper{
+    box-sizing: border-box;
+    display:flex;
+    justify-content: center;
+    padding-top: 20px;
+}
+#search-box{
+    border:ridge 1px;
+    border-radius: 30px;
+    
+}
+#search-text{
+    border:none;
+    outline:none;
+    background:none;
+    padding: 10px 12px;
+    font-size: 18px;
+    width:400px;
+}
+#search-button{
+    background-color: #fff;
+    border:none;
+    padding:10px;
+    cursor:pointer;
+    border-radius: 30px;
+}
+#search-voice{
+    background-color: #fff;
+    border:none;
+    padding:10px 5px 10px 10px;
+    cursor:pointer;
+    border-radius: 30px;
+}
+#search-image{
+    background-color: #fff;
+    border:none;
+    border-radius: 30px;
+    padding: 10px 10px 10px 0px;
+    cursor:pointer;
+}
+.link2{
+    text-decoration: none;
+    padding:10px 15px 10px 15px;
+    border: none;
+    color:black;
+    background-color:#fff;
+}
+.link3{
+    text-decoration: none;
+    padding:10px 15px 10px 15px;
+    border: none;
+    color:black;
+    background-color: #ffffffef;
+}
+.class1{
+    box-sizing: border-box;
+    display:flex;
+    justify-content: center;
+    cursor:pointer;
+    border: none;
+    padding: 20px;
+}
+.hh{
+    background:#fff;
+    border: none;
+}
+.link3:hover{
+    border-radius: 5px;
+    box-shadow: .5px .5px .5px 1px #DCDCDC;
+}
+.link2:hover{
+    border-radius: 5px;
+    box-shadow: .5px .5px .5px 1px #DCDCDC;
+}
+#search-box:hover{
+    box-shadow: .5px .5px .5px 1px #DCDCDC;
+}
+.tnv{
+    height:180px;
+    margin: 0 8px;
+    display:flex;
+    justify-content: center;
+    padding: 5px 0 0 0;
+    align-items: baseline;
+}
+.QC{
+    left: 260px;
+    top: 290px;
+    font-size: 16px;
+    height:30px;
+    padding:10px 50px 10px 50px;
+    background-color: rgb(197, 190, 190);
+    border-bottom: 1px solid #616060;
+}
+.link4{
+    margin: -6px 8px  ;
+    padding:inline-block;
+
+}
+.tsv{
+    margin:0 8px;
+}
+.CD{ 
+    position: sticky;
+    top: 0px;
+    min-height:35px;
+    background-color: rgb(197, 190, 190);
+    display:flex;
+    justify-content: space-between;
+}
+footer{
+    display:block;
+}
+.hoa{
+    list-style: none;
+    margin: 0 8px;
+    display:block;
+    text-decoration: none;
+    color: #000;
+}
+.setting1{
+    padding-left: 0;
+    margin:auto 16px;
+    display:flex;
+}
+
